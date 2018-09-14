@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj",
+      "projectUniqueName": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj",
       "projectName": "ProductNUnitApplication",
-      "projectPath": "D:\\DotNet\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj",
+      "projectPath": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\ProductNUnitApplication\\ProductNUnitApplication\\obj\\",
+      "outputPath": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication\\ProductNUnitApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

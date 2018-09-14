@@ -9573,11 +9573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\ProductNUnitApplication.tests\\ProductNUnitApplication.tests.csproj",
+      "projectUniqueName": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication.tests\\ProductNUnitApplication.tests.csproj",
       "projectName": "ProductNUnitApplication.tests",
-      "projectPath": "D:\\DotNet\\ProductNUnitApplication.tests\\ProductNUnitApplication.tests.csproj",
+      "projectPath": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication.tests\\ProductNUnitApplication.tests.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\ProductNUnitApplication.tests\\obj\\",
+      "outputPath": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9596,8 +9596,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\DotNet\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj": {
-              "projectPath": "D:\\DotNet\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj"
+            "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj": {
+              "projectPath": "D:\\DotNet\\Product-NUnit-Application\\ProductNUnitApplication\\ProductNUnitApplication\\ProductNUnitApplication.csproj"
             }
           }
         }
